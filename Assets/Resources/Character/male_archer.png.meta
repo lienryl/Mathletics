@@ -1,0 +1,1724 @@
+fileFormatVersion: 2
+guid: 7008d967d85423645b03e1609ba973c5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: male_archer_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 7728
+        width: 346
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb31e0d519f27bd44b1512b3e4bcc5d7
+      internalID: 802523709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_1
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 7734
+        width: 340
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4ded50d6004de4d99871445f3c88f8
+      internalID: -83706707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_2
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 7728
+        width: 340
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f7b9fdff7d75a43a70ef0ad30c7823
+      internalID: -2040825219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_3
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 7728
+        width: 346
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be7fcb5d313fb147a6723d9388fb528
+      internalID: 580084173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_4
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 7222
+        width: 352
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61baf158cbf6f3640917eaaf475c0386
+      internalID: -1040461098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_5
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 7272
+        width: 362
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240309e68df05de4ba369e131d765bdb
+      internalID: -1872071892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_6
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 7222
+        width: 340
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d6ccf475c720d41a55be4d81049efe
+      internalID: -828484598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_7
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 7222
+        width: 354
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a444a45b35e02f419b56445f65f401d
+      internalID: 504154610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_8
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 7440
+        width: 4
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb53be36c8c9ed448475554da34c2b0
+      internalID: -180913277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_9
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 7222
+        width: 230
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6170fcc82c89e4b847dddce81480d9
+      internalID: 671882517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_10
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 6710
+        width: 260
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a52990fcfb58f942bdd3e2294b71ab4
+      internalID: -2127745380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_11
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 6710
+        width: 256
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4ce153ef356034ba36f8b0f558c207
+      internalID: -1023483261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_12
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 6710
+        width: 346
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d144623c7c073743a9fe2e0a8496bb3
+      internalID: -804017546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_13
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 6710
+        width: 354
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3e1b16f6a68c14589431308e8b107e
+      internalID: 1449334415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6192
+        width: 384
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c5df10aafc71b4ea952a71037ed442
+      internalID: -1482448423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_15
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 6270
+        width: 408
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ec227445bea124990449f9402b676b
+      internalID: 1348592360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_16
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 6198
+        width: 396
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b4d380ea15ecb47b77f64a3f72e5fa
+      internalID: 7806891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_17
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 6162
+        width: 384
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77eb36b75cee3fd4dbb0de43957bdbac
+      internalID: 2049526806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_18
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 6198
+        width: 212
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae186975018419449a55d4471b552db6
+      internalID: -1689254218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_19
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 5686
+        width: 368
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b48a009f2c0bc84a9bb380d8c16f562
+      internalID: 2072308754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_20
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 5686
+        width: 378
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7677495735072cc48b0308f463c9e414
+      internalID: 1717960326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_21
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 5686
+        width: 372
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f34f23cde8a1e4db5b2f6ac16a35c6
+      internalID: -745086873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_22
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 5686
+        width: 368
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba2680f6203ecb4aa0945bce3d3a8ad
+      internalID: -1600675800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_23
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 5174
+        width: 379
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318d7fff58579ee489e409d1da2b6bd9
+      internalID: 855095303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_24
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 5238
+        width: 364
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891f5f0a0daed884f8a342527c71d52e
+      internalID: 267753052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_25
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 5174
+        width: 355
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82716c67d39b29c47a19778afdd5229c
+      internalID: 1900012097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_26
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 5174
+        width: 358
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa152a537fea0a74d908cb5f0fa96062
+      internalID: 1312042028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_27
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 5174
+        width: 212
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ae260eb9f81454b883f482bf1f828a
+      internalID: -740624823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_28
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 4656
+        width: 256
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73b870982f177c4a811d48c7c1f4446
+      internalID: 940827498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_29
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 4662
+        width: 256
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72638162c0ed4f84a9cec37c12a282c4
+      internalID: 655872124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_30
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 4662
+        width: 340
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2141134ef80bc41ae7845b61cc226f
+      internalID: -1879451145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_31
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 4662
+        width: 362
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bf583b11ddc3b498ef0304bd3f0fcf
+      internalID: 1386656424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_32
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 4150
+        width: 376
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eaa8b9bff093d4489d466f99c33c673
+      internalID: -489611377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_33
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 4207
+        width: 352
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d800773a9626674aad6b44c122f79c7
+      internalID: 1767502685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_34
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 4150
+        width: 364
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f54204d1898791409b9aa145aef9026
+      internalID: 642052598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_35
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 4114
+        width: 363
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d4e097ff5114d408474ccf5f775e4d
+      internalID: 2067752079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_36
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 4150
+        width: 212
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2aa3aa67fdd965418bd39eb622f7420
+      internalID: -1647607600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_37
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 3638
+        width: 354
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130625715e905894199c3e42a81025f0
+      internalID: -1107941985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_38
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 3638
+        width: 332
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8b49c17162ea84595bab96311e9cfc
+      internalID: 2011047817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_39
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 3638
+        width: 342
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d683aa011ad94c4fbdd16e174361bdd
+      internalID: 2026401701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_40
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 3638
+        width: 332
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e211ff32dab7974bad506cbc05d005a
+      internalID: -196556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_41
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 3134
+        width: 351
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb9ad98b106b3d4d9c041e86627c842
+      internalID: 107860134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_42
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 3182
+        width: 352
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eede0808010773b4e916efa1456cba3e
+      internalID: 1321427652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_43
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 3120
+        width: 352
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9644f8b213869b74a820d2ae7c69f1d4
+      internalID: 986528065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_44
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 3134
+        width: 348
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a534cf6a6a6c84db3a7e775c9d9e0e
+      internalID: -1460667102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_45
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 3134
+        width: 211
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896d29c5ece50f043b0703a922d4833a
+      internalID: -240051893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2614
+        width: 306
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1489fabf0c86c4e9f7dd42c842b78e
+      internalID: -1153984164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_47
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 2614
+        width: 316
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201ec37d86da73d468c8793177b1f039
+      internalID: 1804471723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_48
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 2614
+        width: 343
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f71c6d33e439643b5eaea1055b91b1
+      internalID: 879311908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_49
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 2614
+        width: 336
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389e119532fee7949a2e4bed4d0c8cf8
+      internalID: 488612525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_50
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2102
+        width: 358
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583099b1de06c6e4cab35fb0f20e67fc
+      internalID: 98359551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_51
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 2102
+        width: 380
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf22c24a6343d349beb3e28b7769f1b
+      internalID: -461308850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_52
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 2088
+        width: 412
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfb288bc5860c24081efd9ad4fe4f13
+      internalID: 867640559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_53
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 2090
+        width: 436
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a3a3c58732a654a877564eec207b07
+      internalID: 161652045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_54
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1584
+        width: 354
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abdc36b4407b2d44bd4e51254949495
+      internalID: -2118345253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_55
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1590
+        width: 360
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78ab0128f95d304bb9d6a239ee64152
+      internalID: 992131277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_56
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1590
+        width: 334
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49a380e809e5c94ea763f1cb9cbf834
+      internalID: 1385464572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_57
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 1584
+        width: 354
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733356095da795044a53cdefc4e23530
+      internalID: 1855768438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_58
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1086
+        width: 348
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9648e57e36fc4ed41a998141d598aa04
+      internalID: 537628110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_59
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1086
+        width: 355
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d47065032f8fbb4684d4f04dd4b17d5
+      internalID: 2062376449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_60
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1080
+        width: 362
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9968e634990096749a89577313a80b0b
+      internalID: 1409589360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_61
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 1079
+        width: 354
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5461e5f4019f24cb60137a77ed1c9c
+      internalID: -1820430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_62
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 566
+        width: 292
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406f941b5d88c524e8852241a688aad3
+      internalID: -710069779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_63
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 566
+        width: 316
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334f9a723bbf47c4aaac34ea1c6bdfdf
+      internalID: -1034374361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_64
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 566
+        width: 350
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039ad6f102cd2a84c86fccc1ffa9fccd
+      internalID: 364075027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_65
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 566
+        width: 339
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4e1697273702641bc9ed1982ad5664
+      internalID: 1418054073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_66
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 48
+        width: 370
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee7fc277b321db4abb5a6663f4ec00d
+      internalID: -472571068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_67
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 288
+        width: 4
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334e7b7b55a5be840857035e7e84817e
+      internalID: 561721589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_68
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 102
+        width: 384
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0191f4dae5370f8449392c250d7bcf9c
+      internalID: 632135658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_69
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 54
+        width: 412
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73c81b25308cfa4dac8cd0f8e92a769
+      internalID: -1854482502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_70
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 54
+        width: 212
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89b6ceed4828c34fb00a4b464c043f6
+      internalID: 2053012294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_archer_71
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 42
+        width: 436
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1af64aa2c6ce44a8a2c44e9cbc978b
+      internalID: -511792825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      male_archer_0: 802523709
+      male_archer_1: -83706707
+      male_archer_10: -2127745380
+      male_archer_11: -1023483261
+      male_archer_12: -804017546
+      male_archer_13: 1449334415
+      male_archer_14: -1482448423
+      male_archer_15: 1348592360
+      male_archer_16: 7806891
+      male_archer_17: 2049526806
+      male_archer_18: -1689254218
+      male_archer_19: 2072308754
+      male_archer_2: -2040825219
+      male_archer_20: 1717960326
+      male_archer_21: -745086873
+      male_archer_22: -1600675800
+      male_archer_23: 855095303
+      male_archer_24: 267753052
+      male_archer_25: 1900012097
+      male_archer_26: 1312042028
+      male_archer_27: -740624823
+      male_archer_28: 940827498
+      male_archer_29: 655872124
+      male_archer_3: 580084173
+      male_archer_30: -1879451145
+      male_archer_31: 1386656424
+      male_archer_32: -489611377
+      male_archer_33: 1767502685
+      male_archer_34: 642052598
+      male_archer_35: 2067752079
+      male_archer_36: -1647607600
+      male_archer_37: -1107941985
+      male_archer_38: 2011047817
+      male_archer_39: 2026401701
+      male_archer_4: -1040461098
+      male_archer_40: -196556
+      male_archer_41: 107860134
+      male_archer_42: 1321427652
+      male_archer_43: 986528065
+      male_archer_44: -1460667102
+      male_archer_45: -240051893
+      male_archer_46: -1153984164
+      male_archer_47: 1804471723
+      male_archer_48: 879311908
+      male_archer_49: 488612525
+      male_archer_5: -1872071892
+      male_archer_50: 98359551
+      male_archer_51: -461308850
+      male_archer_52: 867640559
+      male_archer_53: 161652045
+      male_archer_54: -2118345253
+      male_archer_55: 992131277
+      male_archer_56: 1385464572
+      male_archer_57: 1855768438
+      male_archer_58: 537628110
+      male_archer_59: 2062376449
+      male_archer_6: -828484598
+      male_archer_60: 1409589360
+      male_archer_61: -1820430
+      male_archer_62: -710069779
+      male_archer_63: -1034374361
+      male_archer_64: 364075027
+      male_archer_65: 1418054073
+      male_archer_66: -472571068
+      male_archer_67: 561721589
+      male_archer_68: 632135658
+      male_archer_69: -1854482502
+      male_archer_7: 504154610
+      male_archer_70: 2053012294
+      male_archer_71: -511792825
+      male_archer_8: -180913277
+      male_archer_9: 671882517
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
